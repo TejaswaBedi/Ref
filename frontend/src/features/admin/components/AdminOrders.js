@@ -106,6 +106,7 @@ const AdminOrders = () => {
                     <th className="py-3 px-6 text-center">Payment Method</th>
                     <th
                       className="py-3 px-6 text-center"
+                      style={{ cursor: "pointer" }}
                       onClick={(e) =>
                         handleSort({
                           sort: "createdAt",
@@ -123,6 +124,7 @@ const AdminOrders = () => {
                     </th>
                     <th
                       className="py-3 px-6 text-center"
+                      style={{ cursor: "pointer" }}
                       onClick={(e) =>
                         handleSort({
                           sort: "updatedAt",
