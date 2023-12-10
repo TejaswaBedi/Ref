@@ -336,7 +336,7 @@ exports.invoiceTemplate = function (order) {
           <!-- start permission -->
           <tr>
             <td align="center" bgcolor="#D2C7BA" style="padding: 12px 24px; font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 20px; color: #666;">
-              <p style="margin: 0;">"Thank you for choosing us! We appreciate your trust in our e-commerce platform and look forward to serving you again soon."</p>
+              <p style="margin: 0;">"Thank you for choosing us! We appreciate your trust in our e-commerce platform and look forward to serving you again soon.😊"</p>
             </td>
           </tr>
           <!-- end permission -->
